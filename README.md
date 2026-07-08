@@ -7,7 +7,7 @@ Ejercicios de pseudocódigo realizados en clase con [PSeInt](https://pseint.sour
 | Carpeta | Nivel | Archivos | Descripción |
 |---------|-------|----------|-------------|
 | `Faciles/` | Básico | 9 | Algoritmos introductorios: arrays fijos, bucles, condicionales, funciones básicas |
-| `Medio/` | Intermedio | 1 | Arrays dinámicos, funciones con parámetros de tamaño, validación de entrada |
+| `Medio/` | Intermedio | 17 | Arrays dinámicos, funciones con parámetros de tamaño, validación de entrada |
 | `dificil/` | Avanzado | 1 | Programa modular completo: menú interactivo, subprocesos, múltiples funciones |
 
 ## Temas cubiertos
